@@ -5,7 +5,10 @@
 Installation & Usage
 
 git clone hhttps://github.com/saxenarahul36/Express-Webpack.git
-cd expack
+
+
+
+
 npm install
 
 npm run buildDev        // for development
